@@ -28,9 +28,9 @@
 </div>-->
 
 <br/>
-
+<p>
 ## 📊 Github Stats
-
+</p>
 <div>
 <p align="center">
     	<a href="https://github.com/vmezzavilla">
