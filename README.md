@@ -7,14 +7,14 @@
 <br/>
 
 ## 🔥 Streak Stats
-<p>
+
 <div align="center">
-  <img height="200em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vmezzavilla&theme=dark" alt="vmezzavilla" />
+  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmezzavilla&theme=dark" alt="vmezzavilla" />
   <!--<a href="https://github.com/vmezzavilla/ft_printf">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vmezzavilla&repo=ft_printf&show_icons=true&theme=dark" alt="vmezzavilla" />
   </a>-->
 </div>
-</p>
+
 <br/>
 
 <!--### 🛠 Tech Stack
@@ -28,9 +28,9 @@
 </div>-->
 
 <br/>
-<p>
+
 ## 📊 Github Stats
-</p>
+
 <div>
 <p align="center">
     	<a href="https://github.com/vmezzavilla">
