@@ -8,7 +8,7 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vmezzavilla&theme=dark" alt="vmezzavilla" />
+  <img height="200em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vmezzavilla&theme=dark" alt="vmezzavilla" />
   <!--<a href="https://github.com/vmezzavilla/ft_printf">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vmezzavilla&repo=ft_printf&show_icons=true&theme=dark" alt="vmezzavilla" />
   </a>-->
@@ -63,7 +63,7 @@
 
 ## 🎧 Spotify Playing 
 <div align="center">
-  <a href="https://open.spotify.com/user/_jessreis">
+  <a href="https://open.spotify.com/user/12151132836">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true&user=12151132836" alt="Spotify recently played"  />
   </a>
 </div>
